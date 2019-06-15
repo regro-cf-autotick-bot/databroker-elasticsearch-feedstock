@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About databroker-elasticsearch
 ==============================
 
@@ -18,8 +14,15 @@ Summary: integration of elastic search with databroker
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/databroker-elasticsearch-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/databroker-elasticsearch-feedstock)
+
+<table><tr><td>All platforms:</td>
+    <td>
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=6324&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/databroker-elasticsearch-feedstock?branchName=master">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
